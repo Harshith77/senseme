@@ -7,8 +7,10 @@
             <field name="OBJECT">LEFTFRONT</field>
           </block>
         </value>
+        <statement name="DO0">
+          <block type="movement_stop" id="78"></block>
+        </statement>
       </block>
     </next>
   </block>
-  <block type="movement_left" id="59" x="80" y="94"></block>
 </xml>
